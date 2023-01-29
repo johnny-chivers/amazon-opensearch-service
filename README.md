@@ -9,7 +9,7 @@
 
 ## What's included
 
-The repo is to supplement the [youtube video](https://youtu.be/grfSNj2EMwo) on Opensearch Service in AWS.
+The repo is to supplement the [youtube video](https://youtu.be/yE8TrLV3ZgU) on Opensearch Service in AWS.
 
 
 ## Main Tutorial
@@ -105,7 +105,7 @@ The repo is to supplement the [youtube video](https://youtu.be/grfSNj2EMwo) on O
 
 ## Useful Links
 
-- [youtube video](https://youtu.be/grfSNj2EMwo) 
+- [youtube video](https://youtu.be/yE8TrLV3ZgU) 
 - [website](https://www.johnnychivers.co.uk)
 - [buy me a coffee](https://www.buymeacoffee.com/johnnychivers)
 
