@@ -9,7 +9,7 @@
 
 ## What's included
 
-The repo is to supplement the [youtube video](https://youtu.be/yE8TrLV3ZgU) on Opensearch Service in AWS.
+The repo is to supplement the [youtube video](https://youtu.be/SIl5PM4m2KM) on Opensearch Service in AWS.
 
 
 ## Main Tutorial
